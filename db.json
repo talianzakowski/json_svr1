@@ -1,17 +1,17 @@
 {
-  "posts": [
+  "people": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Rapunzel",
+      "age": "19033"
     },
     {
-      "id": 2,
-      "title": "goodbye"
+      "name": "God",
+      "age": "-1"
     },
     {
-      "id": 3,
-      "title": "more..."
-    }
+      "name": "Gustav",
+      "age": "912"
+    },
   ],
   "profile": {
     "name": "typicode"
